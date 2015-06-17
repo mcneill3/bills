@@ -6,8 +6,9 @@ one:
   category: MyString
   amount: 9.99
   type: 
-  frequency: 2015-06-14 12:06:04
-  due: 2015-06-14 12:06:04
+  notes: MyText
+  frequency: MyString
+  due: 2015-06-16 21:33:54
 
 two:
   name: MyString
@@ -15,5 +16,6 @@ two:
   category: MyString
   amount: 9.99
   type: 
-  frequency: 2015-06-14 12:06:04
-  due: 2015-06-14 12:06:04
+  notes: MyText
+  frequency: MyString
+  due: 2015-06-16 21:33:54

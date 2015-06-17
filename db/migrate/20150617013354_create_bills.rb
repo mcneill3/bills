@@ -6,7 +6,8 @@ class CreateBills < ActiveRecord::Migration
       t.string :category
       t.decimal :amount
       t.string :type
-      t.time :frequency
+      t.text :notes
+      t.string :frequency
       t.datetime :due
 
       t.timestamps null: false
